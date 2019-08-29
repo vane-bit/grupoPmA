@@ -47,7 +47,7 @@ body{
     width: 50%;
     float: left;
 }
-#imagen img {
+img{
     margin: 0 auto;
     display: block;
 }
@@ -91,6 +91,7 @@ body{
 #compras img{
     width: 150px;
     padding: 30px;
+
 }
 /*------- ESTILOS FOOTER ----*/
 #footer{
@@ -99,3 +100,7 @@ body{
     color: white;
     text-align: center;
   }
+
+.botones {
+    margin: 0 auto;
+   }
